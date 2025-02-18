@@ -14,6 +14,8 @@ GH handle:  andrew-scoppa
 
 [GitHub CLI](https://cli.github.com/manual/gh_api)
 
-[Copilot for Business seat information and settings](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-user-management?apiVersion=2022-11-28#get-copilot-for-business-seat-information-and-settings-for-an-organization)
+[REST API endpoints for Copilot user management](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-user-management?apiVersion=2022-11-28)
+
+[REST API endpoints for Copilot metrics](https://docs.github.com/en/rest/copilot/copilot-user-management?apiVersion=2022-11-28)
 
 [Security Advisories](https://docs.github.com/en/enterprise-cloud@latest/rest/security-advisories?apiVersion=2022-11-28)
