@@ -9,14 +9,17 @@
 # stage all changes
 git add .
 
-# commit changes with message 'Updated'
-git commit -m 'Updated'
+# commit changes
+git commit -m "Updated"
 
 # pull changes from remote repository
 git pull origin main
 
-# push changes to remote repository on branch 'main'
+# push changes to remote repository
 git push origin main
+
+# Echo a message to the console to indicate that the script has been executed
+echo "The script has been executed successfully!"
 
 
 
