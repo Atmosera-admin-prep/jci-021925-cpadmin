@@ -8,4 +8,6 @@ Email: andrew.scoppa@atmosera.com
 
 GH handle:  andrew-scoppa
 
+## Course Description of GitHub Administration & Security
+
 
